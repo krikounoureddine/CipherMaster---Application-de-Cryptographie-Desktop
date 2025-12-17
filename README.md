@@ -18,6 +18,25 @@ L’application repose sur les standards **JCA / JCE** et s’appuie sur des bib
 
 ---
 
+| Interface principale |
+|----------------------|
+| <img src="screenshots/ui-main.png" width="500"> |
+
+| Navigation par onglets |
+|----------------------|
+| <img src="screenshots/ui-tabs.png" width="500"> |
+
+| Fenêtre génération clés |
+|----------------------|
+| <img src="screenshots/rsa-keygen.png" width="500"> |
+
+| Interface Encrypt/Process |
+|----------------------|
+| <img src="screenshots/encrypt.png" width="500"> |
+
+
+---
+
 ## ✨ Fonctionnalités clés
 
 ### 🔑 Algorithmes classiques
