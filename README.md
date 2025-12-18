@@ -3,10 +3,10 @@
 > **CipherMaster** est une application desktop professionnelle de cryptographie développée en **Java (Swing)**.  
 > Elle regroupe des algorithmes de chiffrement classiques, modernes et asymétriques au sein d'une interface graphique **moderne et interactive**, pensée pour l'apprentissage, la démonstration et la sécurité de l'information.
 
-[![GitHub stars](https://img.shields.io/github/stars/krikounoureddine/CipherMaster?style=flat-square)](https://github.com/krikounoureddine/CipherMaster---Application-de-Cryptographie-Desktop/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/krikounoureddine/CipherMaster?style=flat-square)](https://github.com/krikounoureddine/CipherMaster---Application-de-Cryptographie-Desktop)
 [![Java Version](https://img.shields.io/badge/Java-8%2B-orange?style=flat-square)](https://www.java.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/krikounoureddine/CipherMaster?style=flat-square)](https://github.com/krikounoureddine/CipherMaster---Application-de-Cryptographie-Desktop/issues)
+[![GitHub issues](https://img.shields.io/github/issues/krikounoureddine/CipherMaster?style=flat-square)](https://docs.github.com/fr/issues/tracking-your-work-with-issues/learning-about-issues/about-issues)
 
 ---
 
