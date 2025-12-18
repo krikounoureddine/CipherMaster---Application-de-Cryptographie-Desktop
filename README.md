@@ -1,6 +1,43 @@
 # 🔐 CipherMaster — Application de Cryptographie Desktop
 
 > **CipherMaster** est une application desktop professionnelle de cryptographie développée en **Java (Swing)**.  
+> Elle regroupe des algorithmes de chiffrement classiques, modernes et asymétriques au sein d'une interface graphique **moderne et interactive**, pensée pour l'apprentissage, la démonstration et la sécurité de l'information.
+
+[![GitHub stars](https://img.shields.io/github/stars/krikounoureddine/CipherMaster?style=flat-square)](https://github.com/krikounoureddine/CipherMaster---Application-de-Cryptographie-Desktop/stargazers)
+[![Java Version](https://img.shields.io/badge/Java-8%2B-orange?style=flat-square)](https://www.java.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/krikounoureddine/CipherMaster?style=flat-square)](https://github.com/krikounoureddine/CipherMaster---Application-de-Cryptographie-Desktop/issues)
+
+---
+
+## 🚀 **Démonstration Interactive**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>Interface Moderne</strong></td>
+      <td align="center"><strong>Gestion des Clés</strong></td>
+    </tr>
+    <tr>
+      <td><img src="screenshots/ui-main.png" width="400" alt="Interface principale CipherMaster"></td>
+      <td><img src="screenshots/rsa-keygen.png" width="400" alt="Génération de clés RSA"></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Navigation Intelligente</strong></td>
+      <td align="center"><strong>Chiffrement en Temps Réel</strong></td>
+    </tr>
+    <tr>
+      <td><img src="screenshots/ui-tabs.png" width="400" alt="Navigation par onglets"></td>
+      <td><img src="screenshots/encrypt.png" width="400" alt="Processus de chiffrement"></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+# 🔐 CipherMaster — Application de Cryptographie Desktop
+
+> **CipherMaster** est une application desktop professionnelle de cryptographie développée en **Java (Swing)**.  
 Elle regroupe des algorithmes de chiffrement classiques, modernes et asymétriques au sein d’une interface graphique intuitive, pensée pour l’apprentissage, la démonstration et la sécurité de l’information.
 
 ---
