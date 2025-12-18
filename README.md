@@ -1,12 +1,25 @@
 # 🔐 CipherMaster — Application de Cryptographie Desktop
 
 > **CipherMaster** est une application desktop professionnelle de cryptographie développée en **Java (Swing)**.  
-> Elle regroupe des algorithmes de chiffrement classiques, modernes et asymétriques au sein d'une interface graphique **moderne et interactive**, pensée pour l'apprentissage, la démonstration et la sécurité de l'information.
+Elle regroupe des algorithmes de chiffrement classiques, modernes et asymétriques au sein d’une interface graphique intuitive, pensée pour l’apprentissage, la démonstration et la sécurité de l’information.
 
 [![GitHub stars](https://img.shields.io/github/stars/krikounoureddine/CipherMaster?style=flat-square)](https://github.com/krikounoureddine/CipherMaster---Application-de-Cryptographie-Desktop)
 [![Java Version](https://img.shields.io/badge/Java-8%2B-orange?style=flat-square)](https://www.java.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/krikounoureddine/CipherMaster?style=flat-square)](https://docs.github.com/fr/issues/tracking-your-work-with-issues/learning-about-issues/about-issues)
+
+---
+
+## 🚀 Présentation du projet
+
+CipherMaster a pour objectif de fournir une **boîte à outils cryptographique complète** permettant de :
+
+- Comprendre les mécanismes fondamentaux du chiffrement  
+- Manipuler des algorithmes reconnus dans l’industrie  
+- Gérer des clés cryptographiques de manière sécurisée  
+- Chiffrer et déchiffrer des données via une interface graphique moderne  
+
+L’application repose sur les standards **JCA / JCE** et s’appuie sur des bibliothèques reconnues telles que **Bouncy Castle** et **Apache Commons Codec**.
 
 ---
 
@@ -32,45 +45,6 @@
     </tr>
   </table>
 </div>
-
----
-
-# 🔐 CipherMaster — Application de Cryptographie Desktop
-
-> **CipherMaster** est une application desktop professionnelle de cryptographie développée en **Java (Swing)**.  
-Elle regroupe des algorithmes de chiffrement classiques, modernes et asymétriques au sein d’une interface graphique intuitive, pensée pour l’apprentissage, la démonstration et la sécurité de l’information.
-
----
-
-## 🚀 Présentation du projet
-
-CipherMaster a pour objectif de fournir une **boîte à outils cryptographique complète** permettant de :
-
-- Comprendre les mécanismes fondamentaux du chiffrement  
-- Manipuler des algorithmes reconnus dans l’industrie  
-- Gérer des clés cryptographiques de manière sécurisée  
-- Chiffrer et déchiffrer des données via une interface graphique moderne  
-
-L’application repose sur les standards **JCA / JCE** et s’appuie sur des bibliothèques reconnues telles que **Bouncy Castle** et **Apache Commons Codec**.
-
----
-
-| Interface principale |
-|----------------------|
-| <img src="screenshots/ui-main.png" width="500"> |
-
-| Navigation par onglets |
-|----------------------|
-| <img src="screenshots/ui-tabs.png" width="500"> |
-
-| Fenêtre génération clés |
-|----------------------|
-| <img src="screenshots/rsa-keygen.png" width="500"> |
-
-| Interface Encrypt/Process |
-|----------------------|
-| <img src="screenshots/encrypt.png" width="500"> |
-
 
 ---
 
