@@ -32,16 +32,16 @@ L’application repose sur les standards **JCA / JCE** et s’appuie sur des bib
       <td align="center"><strong>Gestion des Clés</strong></td>
     </tr>
     <tr>
-      <td><img src="screenshots/ui-main.png" width="400" alt="Interface principale CipherMaster"></td>
-      <td><img src="screenshots/rsa-keygen.png" width="400" alt="Génération de clés RSA"></td>
+      <td><img src="https://raw.githubusercontent.com/krikounoureddine/CipherMaster---Application-de-Cryptographie-Desktop/main/screenshots/ui-main.png" width="400" alt="Interface principale CipherMaster"></td>
+      <td><img src="https://raw.githubusercontent.com/krikounoureddine/CipherMaster---Application-de-Cryptographie-Desktop/main/screenshots/rsa-keygen.png" width="400" alt="Génération de clés RSA"></td>
     </tr>
     <tr>
       <td align="center"><strong>Navigation Intelligente</strong></td>
       <td align="center"><strong>Chiffrement en Temps Réel</strong></td>
     </tr>
     <tr>
-      <td><img src="screenshots/ui-tabs.png" width="400" alt="Navigation par onglets"></td>
-      <td><img src="screenshots/encrypt.png" width="400" alt="Processus de chiffrement"></td>
+      <td><img src="https://raw.githubusercontent.com/krikounoureddine/CipherMaster---Application-de-Cryptographie-Desktop/main/screenshots/ui-tabs.png" width="400" alt="Navigation par onglets"></td>
+      <td><img src="https://raw.githubusercontent.com/krikounoureddine/CipherMaster---Application-de-Cryptographie-Desktop/main/screenshots/encrypt.png" width="400" alt="Processus de chiffrement"></td>
     </tr>
   </table>
 </div>
