@@ -1,6 +1,6 @@
 <!-- README.md - CipherMaster -->
 
-<body style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); margin: 0; padding: 20px;">
+<body style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); margin: 0; padding: 20px;">
 
 <div style="
     background-color: #0f172a;
