@@ -1,3 +1,54 @@
+<!-- README.md - CipherMaster -->
+
+<body style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); margin: 0; padding: 20px;">
+
+<div style="
+    background-color: #0f172a;
+    border-left: 4px solid #00d4aa;
+    padding: 1.5rem;
+    margin: 2rem 0;
+    border-radius: 0 8px 8px 0;
+    color: #f8fafc;
+">
+
+<p style="font-size: 1.2rem; opacity: 0.9;">Application Desktop Professionnelle de Cryptographie — Algorithmes Classiques, Symétriques et Asymétriques</p>
+
+</div>
+
+<br>
+
+<div align="center" style="
+    background: linear-gradient(90deg, #0a192f 0%, #00d4aa 100%);
+    color: white;
+    padding: 2rem;
+    border-radius: 10px;
+    position: relative;
+    overflow: hidden;
+">
+    
+<br>
+
+<div style="position: absolute; top: 0; right: 0; padding: 1rem;">
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+    <img alt="Swing" src="https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white">
+    <img alt="MIT License" src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge">
+    <img alt="Status" src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=for-the-badge" />
+    <img alt="Cryptography" src="https://img.shields.io/badge/Cryptography-Expert-important?style=for-the-badge" />
+</div>
+
+<br>
+
+<h1 style="margin-top: 2rem;">🔐 CipherMaster</h1>
+<p style="font-size: 1.2rem; opacity: 0.9;"> CipherMaster est une application desktop Java (Swing) professionnelle regroupant des algorithmes de chiffrement classiques, symétriques et asymétriques au sein d'une interface graphique intuitive, pensée pour l'apprentissage, la démonstration et la sécurité de l'information.
+</p>
+
+</div>
+
+</body>
+
+---
+
+
 # 🔐 CipherMaster — Application de Cryptographie Desktop
 
 > **CipherMaster** est une application desktop professionnelle de cryptographie développée en **Java (Swing)**.  
@@ -7,6 +58,26 @@ Elle regroupe des algorithmes de chiffrement classiques, modernes et asymétriqu
 [![Java Version](https://img.shields.io/badge/Java-8%2B-orange?style=flat-square)](https://www.java.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/krikounoureddine/CipherMaster?style=flat-square)](https://docs.github.com/fr/issues/tracking-your-work-with-issues/learning-about-issues/about-issues)
+
+---
+
+## 📖 Table des Matières
+
+### 🔍 **Découverte & Démonstration**
+- [🎯 Présentation du Projet](#-présentation-du-projet)
+- [🎨 Démonstration Interactive](#-démonstration-interactive)
+- [✨ Fonctionnalités Clés](#-fonctionnalités-clés)
+
+### ⚙️ **Développement & Architecture**
+- [🏗️ Architecture du projet](#architecture-du-projet)
+- [🛠️ Technologies & Outils](#-technologies--outils)
+- [📦 Installation](#-installation)
+- [▶️ Utilisation](#-utilisation)
+
+### 🤝 **Communauté & Contribution**
+- [💡 Contribution](#-contribution)
+- [📜 Licence](#-licence)
+- [📞 Contact](#-contact)
 
 ---
 
@@ -81,14 +152,33 @@ L’application repose sur les standards **JCA / JCE** et s’appuie sur des bib
 
 ---
 
+## 🧩 Architecture du projet
+
+- `ui/` : interfaces graphiques Swing  
+- `crypto/` : implémentation des algorithmes  
+- `utils/` : encodage et gestion des clés  
+- `security/` : configuration JCA / providers
+
+---
+
 ## 🛠️ Technologies & outils
 
-- **Java SE**
-- **Java Swing (GUI Desktop)**
-- **JCA / JCE (Java Cryptography Architecture / Extension)**
-- **Bouncy Castle** (provider cryptographique)
-- **Apache Commons Codec** (Base64)
-- **Eclipse IDE**
+### **Stack Technologique Principale**
+
+| Catégorie | Technologies | Description |
+|-----------|--------------|-------------|
+| **Langage** | Java SE 8+ | Langage de programmation principal |
+| **Interface** | Java Swing | Interface graphique desktop |
+| **Cryptographie** | JCA / JCE | Architecture cryptographique Java |
+| **Bibliothèques** | Bouncy Castle, Apache Commons Codec | Providers cryptographiques et utilitaires |
+| **Développement** | Eclipse IDE | Environnement de développement intégré |
+| **Gestion** | Git, GitHub | Versionnement et hébergement |
+
+### **Détails techniques :**
+- **JCA (Java Cryptography Architecture)** : Framework pour les opérations cryptographiques
+- **JCE (Java Cryptography Extension)** : Implémentation des algorithmes cryptographiques
+- **Bouncy Castle** : Provider cryptographique pour algorithmes additionnels
+- **Apache Commons Codec** : Utilitaire pour l'encodage Base64
 
 ---
 
@@ -118,15 +208,6 @@ git clone https://github.com/krikounoureddine/CipherMaster---Application-de-Cryp
 5. Chiffrer / Déchiffrer le message  
 
 > L’interface par onglets permet une navigation fluide entre les différents algorithmes.
-
----
-
-## 🧩 Architecture du projet
-
-- `ui/` : interfaces graphiques Swing  
-- `crypto/` : implémentation des algorithmes  
-- `utils/` : encodage et gestion des clés  
-- `security/` : configuration JCA / providers  
 
 ---
 
@@ -164,3 +245,5 @@ Vous êtes libre de l’utiliser, le modifier et le distribuer.
 ✔ Projet pertinent pour les recruteurs en **sécurité de l’information**
 
 > ⭐ *N’hésitez pas à laisser une étoile si le projet vous plaît !*
+
+
