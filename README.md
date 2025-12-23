@@ -152,7 +152,7 @@ L’application repose sur les standards **JCA / JCE** et s’appuie sur des bib
 
 ---
 
-## 🧩 Architecture du projet
+## Architecture du projet
 
 - `ui/` : interfaces graphiques Swing  
 - `crypto/` : implémentation des algorithmes  
@@ -161,7 +161,7 @@ L’application repose sur les standards **JCA / JCE** et s’appuie sur des bib
 
 ---
 
-## 🛠️ Technologies & outils
+## Technologies & outils
 
 ### **Stack Technologique Principale**
 
@@ -199,7 +199,7 @@ git clone https://github.com/krikounoureddine/CipherMaster---Application-de-Cryp
 
 ```
 
-## ▶️ Utilisation
+## Utilisation
 
 1. Lancer l’application  
 2. Choisir l’algorithme de chiffrement  
